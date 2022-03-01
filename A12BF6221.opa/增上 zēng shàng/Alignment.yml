@@ -1,0 +1,18 @@
+segment_sources:
+  P59E19999:
+    type: origin_type
+    relation: translation
+    language: zh
+  P7B7C34D6:
+    type: origin_type
+    relation: translation
+    language: zh
+  P4A94E0E4:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  5380253d29f14a618b2139410b55f13a:
+    P59E19999: 35e69865bed641b3955f6fa0625255be
+    P7B7C34D6: 26a6eb2d736b4f3f9ee4b80ab9fbbe6c
+    P4A94E0E4: 09ae50d9e7cb486d9f9d3acf2f59607b
